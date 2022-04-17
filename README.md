@@ -1,3 +1,1 @@
-# pt-reflection-example
-
-Demo project for reflection on DB systems
+I implemented a shop application with the following functionalities: add, update, delete and view customers, products and orders. Also, once an order is placed, an invoice is exported in txt format. For this I used a database in MySQL, and for operations and display we used the reflection technique.
